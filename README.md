@@ -1,4 +1,7 @@
-# A bunch of tasks from the Parallel Algorithms class implemented with OpenMP
-**Task 0:** Counting words in the inputed string\
-**Task 1:** Finding the maximum value of a vector\
-**Task 2:** Matrix multiplication
+# Project
+
+- [First assignment](./assignment1/README.md)
+- [Second assignment](./assignment2/README.md)
+
+## Overview
+A bunch of assignment from the Parallel Algorithms class
